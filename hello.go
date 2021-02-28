@@ -1,4 +1,4 @@
-package nosivimport1
+package nosivimport2
 
 import (
         "fmt"
